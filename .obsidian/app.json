@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "showFrontmatter": false,
+  "showIndentGuide": true
+}

@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "cd77b1f4b7395d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e3086f48033269",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "经济学/完全竞争市场/厂商和市场的类型.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52f9b67ad474362e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f14991185b106af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0959f90b477d0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4359902ad86c7fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "边际 递减",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c03acbcd3cbe98bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8248597aab25de50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295a3547e6ff6598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "经济学/完全竞争市场/厂商和市场的类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3225bf504c063d07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "经济学/完全竞争市场/厂商和市场的类型.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7e3086f48033269",
+  "lastOpenFiles": [
+    "经济学/完全竞争市场/完全竞争厂商的需求曲线和收益曲线.md",
+    "经济学/完全竞争市场/厂商和市场的类型.md",
+    "经济学/完全竞争市场/按市场结构划分的四种市场类型.png",
+    "经济学/成本论/长期成本曲线.md",
+    "经济学/生产论/短期生产函数.md",
+    "经济学/成本论/长期边际成本和其他成本的关系.png",
+    "经济学/成本论/短期成本曲线——短期总产量和短期总成本.md",
+    "经济学/成本论/长期平均成本LAC曲线.png",
+    "经济学/成本论/长期总成本曲线LTC的形成.png",
+    "经济学/生产论/长期生产函数——等产量曲线.md"
+  ]
+}

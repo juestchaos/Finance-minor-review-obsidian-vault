@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "7c9d8f7e2ea563ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "94db417edf9f7e64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "经济学/需求、供给、均衡价格/经济模型、静态、比较静态和动态分析.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ce4e796b46b9dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8476350da8e789e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05641d60d9d47ebd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "456672ed3636f9fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "价格变动",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223
+  },
+  "right": {
+    "id": "b1adcd65909fc78c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dae3ad992047574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a46a5f070dfef56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "经济学/需求、供给、均衡价格/经济模型、静态、比较静态和动态分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "734102965f5dbe9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "经济学/需求、供给、均衡价格/经济模型、静态、比较静态和动态分析.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "94db417edf9f7e64",
+  "lastOpenFiles": [
+    "经济学/需求、供给、均衡价格/经济模型、静态、比较静态和动态分析.md",
+    "经济学/需求、供给、均衡价格/供给.md",
+    "经济学/需求、供给、均衡价格/弹性.md",
+    "经济学/需求、供给、均衡价格/微观经济学的特点.md",
+    "经济学/需求、供给、均衡价格/供给价格点弹性.png",
+    "经济学/需求、供给、均衡价格/需求价格点弹性情况.png",
+    "经济学/需求、供给、均衡价格/均衡价格——供求曲线的共同作用.md",
+    "经济学/需求、供给、均衡价格/需求价格弹性和厂商销售收入关系.md",
+    "经济学/需求、供给、均衡价格/需求.md",
+    "经济学/需求、供给、均衡价格/需求曲线的点弹性.png"
+  ]
+}
